@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I`m QA engineer (manual+auto) <a>https://www.linkedin.com/in/zatulivetrova/</a> <br/>
-I’m currently working on testing Android app.<br/>
-I’m currently learning Java for test automatization.
+I`m QA engineer <a>https://www.linkedin.com/in/zatulivetrova/</a> <br/>
+I’m currently working as fullstack QA in Yandex.<br/>
+I’m currently mentoring Java on QAGuru courses.
+Lerning Python and JS for auto.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaZtv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
