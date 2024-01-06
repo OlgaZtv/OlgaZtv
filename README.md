@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I`m QA engineer <a>https://www.linkedin.com/in/zatulivetrova/</a> <br/>
-I’m currently working as fullstack QA in Yandex.<br/>
+I’m currently working as QA Lead/QA Senior Auto in Yandex.<br/>
 I’m currently mentoring Java on QAGuru courses.
-Learning Python for auto.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaZtv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
